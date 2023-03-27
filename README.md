@@ -10,5 +10,6 @@ Turn on developer mode
 select pack extension option and browse the extension folder
 
 #Screenshots
-![Screenshot (55)](https://user-images.githubusercontent.com/84669711/228016346-79fcda33-12c2-4ff6-bfd8-cdd5aa225b55.png)
+![Screenshot (56)](https://user-images.githubusercontent.com/84669711/228018817-c6c1428b-5aaa-4d86-aac9-2968bc7e808f.png)
+
 
